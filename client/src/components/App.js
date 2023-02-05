@@ -1,4 +1,4 @@
-import React ,{Component} from 'react';
+import React ,{useEffect,useState} from 'react';
 import { HashRouter, Routes, Route } from "react-router-dom";
 import Header from './Header';
 import Aboutme from './Aboutme/Aboutme';
@@ -17,9 +17,9 @@ function App()
    
      
       <Route exact path="/" element={<Home />} />  
-      <Route path="#/about" element={<Aboutme />} />   
-      <Route path="#/work" element={<Work />} />     
-      <Route path="#/contact" element={<Touch />}/>
+      <Route path="/about" element={<Aboutme />} />   
+      <Route path="/work" element={<Work />} />     
+      <Route path="/contact" element={<Touch />}/>
       
     
     </HashRouter>
