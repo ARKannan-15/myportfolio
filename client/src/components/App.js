@@ -1,5 +1,5 @@
 import React ,{useEffect,useState} from 'react';
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Header from './Header';
 import Aboutme from './Aboutme/Aboutme';
 import Intro from './Intro';

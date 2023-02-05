@@ -1,5 +1,5 @@
 import React from 'react';
-import { Fade, Flip, Rotate, Zoom } from 'react-reveal';
+import { Zoom } from 'react-reveal';
 
 import pic1 from './2.png';
 function About()
