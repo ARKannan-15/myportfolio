@@ -17,7 +17,7 @@ function Header() {
           <div class="navbar-collapse collapse" id="responsive-navbar-nav">
           <div class="navlist navbar-nav">
           <a class="text-link" href="/about">About</a>
-          <a class="text-link" href="/club">Club</a>
+          {/* <a class="text-link" href="/club">Club</a> */}
           <a class="text-link" href="/work">Work</a>
           <a class="text-link" href="/contact">Contact</a>
           </div>
