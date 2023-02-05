@@ -15,12 +15,12 @@ function App()
   return(
     <HashRouter>
    
-      <Routes>
+     
       <Route exact path="/" element={<Home />} />  
       <Route path="/about" element={<Aboutme />} />   
       <Route path="/work" element={<Work />} />     
       <Route path="/contact" element={<Touch />}/>
-      </Routes>
+      
     
     </HashRouter>
     
