@@ -10,7 +10,7 @@ function About()
             {Array(1).fill(void 0).map( (val, index) =>  
             <Zoom key={index}>
                 <div>
-                    <a class="text-link v" href="/about">
+                    <a class="text-link v" href="#/about">
                         <div class="commonbox about">
                         <h1 class="k">Hello It's<br/>Kannan A.R</h1>
                         <p>About me</p>

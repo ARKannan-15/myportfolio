@@ -5,7 +5,7 @@ import sts from './sts.png';
 function Club()
 {
     return(
-        <div id="club">
+        <div >
         {Array(1).fill(void 0).map( (val, index) =>  
         <Zoom key={index}>
         <div >
