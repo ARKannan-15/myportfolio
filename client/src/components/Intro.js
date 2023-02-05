@@ -23,7 +23,7 @@ function Intro()
             {Array(1).fill(void 0).map( (val, index) =>  
             <Zoom key={index}>
                 <link rel="stylesheet" href="styles.css" />
-                <h1>Iam a Programmer<br />and</h1>
+                <h1>Iam a Programmer<br /><br/>and</h1>
                 <p>Web Developer</p>
             </Zoom>
             )}
