@@ -16,9 +16,9 @@ function App()
     <HashRouter>
    
      <Routes>
-      <Route exact path="/" element={<Home />} />  
+      <Route  path="/" element={<Home />} />  
       <Route path="#/about" element={<Aboutme />} />   
-      <Route path="#/club" element={<Clubs />} /> 
+      {/* <Route path="#/club" element={<Clubs />} />  */}
       <Route path="#/work" element={<Work />} />     
       <Route path="#/contact" element={<Touch />}/>
       </Routes>
