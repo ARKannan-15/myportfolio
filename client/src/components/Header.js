@@ -16,10 +16,10 @@ function Header() {
           <button aria-controls="responsive-navbar-nav" type="button" aria-label="Toggle navigation" class="toggle navbar-toggler collapsed"><span class="navbar-toggler-icon"></span></button>
           <div class="navbar-collapse collapse" id="responsive-navbar-nav">
           <div class="navlist navbar-nav">
-          <a class="text-link" href="/about">About</a>
+          <a class="text-link" href="/#about">About</a>
           <a class="text-link" href="/#club">Club</a>
-          <a class="text-link" href="/work">Work</a>
-          <a class="text-link" href="/contact">Contact</a>
+          <a class="text-link" href="/#work">Work</a>
+          <a class="text-link" href="/#contact">Contact</a>
           </div>
           </div>
           </div>
