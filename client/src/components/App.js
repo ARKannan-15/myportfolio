@@ -13,16 +13,16 @@ function App()
 {
   
   return(
-    <BrowserRouter>
+    <HashRouter>
    
       <Routes>
-      <Route path='/myportfolio' element={<Home />} />  
+      <Route path="/" element={<Home />} />  
       <Route path="/about" element={<Aboutme />} />   
       <Route path="/work" element={<Work />} />     
       <Route path="/contact" element={<Touch />}/>
       </Routes>
     
-    </BrowserRouter>
+    </HashRouter>
     
   )
 }
