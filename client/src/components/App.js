@@ -17,9 +17,9 @@ function App()
    
      <Routes>
       <Route path="/" element={<Home />} />  
-      <Route path="/about" element={<Aboutme />} />   
-      <Route path="/work" element={<Work />} />     
-      <Route path="/contact" element={<Touch />}/>
+      <Route path="#/about" element={<Aboutme />} />   
+      <Route path="#/work" element={<Work />} />     
+      <Route path="#/contact" element={<Touch />}/>
       </Routes>
     
     </HashRouter>
