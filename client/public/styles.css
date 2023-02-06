@@ -789,7 +789,7 @@
     .about img {
       position: relative;
       margin-left: -84%;
-      margin-top: 82%;
+      margin-top: 72%;
       height: 50%;
       scale: 1.4;
   }
@@ -847,7 +847,7 @@
   .sts {
     text-align: center;
     margin-left: -89%;
-    margin-top: 118%;
+    margin-top: auto;
     height: 40%;
     text-decoration: inherit;
   }
@@ -881,7 +881,7 @@
   }
     
     .blog h1{
-      margin-left: -4%;
+      margin-left: 0%;
       margin-top: 15%;
       color: #64ffda;
       font-weight: 900;
@@ -1096,7 +1096,7 @@
       
       top: 5%;
       margin: 0 auto;
-      margin-top: 9%;
+      margin-top: 41%;
       z-index: 1;
       -webkit-transform-style: preserve-3d;
       -moz-transform-style: preserve-3d;
@@ -1157,7 +1157,7 @@
   }
     
     .me h1 {
-      margin-left: -13%;
+      margin-left: 0%;
       margin-top: 16%;
       font-size: 5rem;
       font-weight: 1000;
