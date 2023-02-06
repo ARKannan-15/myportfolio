@@ -29,7 +29,7 @@ function Contact()
         <a class="insta1" href="https://www.instagram.com//kannan.ar_15/">
         <InstagramIcon style={{color:"#103560"}} /></a>
         <br/><br/><br />
-        <a class="linkedin" href="">
+        <a class="linkedin" href="https://www.linkedin.com/in/ar-kannan-389337265">
         <LinkedInIcon style={{color:"#103560"}} /></a>
         </div>
         </div>
