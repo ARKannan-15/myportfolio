@@ -15,7 +15,7 @@ function Header() {
     <div class="navbar-custom">
       <div class="navbar-header">
         
-        <a class="navbar-brand" href="/">Kannan</a>
+        <a class="navbar-brand" href="/myportfolio">Kannan</a>
       </div>
       
         <ul class="nav navbar-nav navbar-right">
